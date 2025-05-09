@@ -29,3 +29,33 @@ This expert system helps users identify potential car issues by:
    swipl 
    ?- [diagnosis]. 
    ?- run_diagnosis.
+
+## 🧠 Key Features
+Intelligent Question Flow
+Symptom-driven questioning with automatic skipping of irrelevant questions
+
+Comprehensive Diagnostics
+Clear, grouped diagnoses with system-area categorization
+
+Explanation Module
+Detailed explanations for each potential diagnosis
+
+Extensible Architecture
+Easily expandable rule set for additional symptoms and diagnoses
+
+## 📊 Sample Output
+[Describe or show example output here]
+
+## 👥 Development Team
+Developed under the supervision of Dr. Mohamed Rehan by:
+
+Malak Mounir Abdellatif
+ Farida Waheed Abdelbary
+
+
+Razan Ahmed
+
+Fawzi Nour
+
+Hesham Elsayed
+   
