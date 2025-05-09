@@ -43,19 +43,18 @@ Detailed explanations for each potential diagnosis
 Extensible Architecture
 Easily expandable rule set for additional symptoms and diagnoses
 
-## 📊 Sample Output
-[Describe or show example output here]
 
 ## 👥 Development Team
 Developed under the supervision of Dr. Mohamed Rehan by:
 
-Malak Mounir Abdellatif
+ Malak Mounir Abdellatif
+
  Farida Waheed Abdelbary
 
+ Nourhan Farag Nohamed 
 
-Razan Ahmed
+ Razan Ahmed Fawzi
 
-Fawzi Nour
+ Nour Hesham Elsayed
 
-Hesham Elsayed
    
